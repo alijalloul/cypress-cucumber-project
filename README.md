@@ -26,7 +26,7 @@ npm run dev
 This will launch the app on `http://localhost:3000`. Open your browser to view and interact with the app. To run the end-to-end tests using Cypress and Cucumber, use the following command:
 
 ```bash
-npm run cypress
+npx cypress open
 ```
 
 ### Project Structure
@@ -41,3 +41,5 @@ npm run cypress
 ### License
 
 This project is licensed under the MIT License.
+
+![Demo Video](./demo.mp4)
